@@ -1,0 +1,33 @@
+{
+	"songs": [
+		["Corruptro", "corruptro", [0, 0, 0]]
+	],
+
+	"songColors": [
+		
+	],
+
+	"loadingScreens": [
+		"Postgame:minus/postgame",
+		"Mompoms:minus/mompoms",
+		"Brawnstorm:extras/brawnstorm",
+		"Icebreaker:extras/icebreaker",
+		"Corruptro:story/corruptro"
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"difficulties": "easy,normal,hard,hell",
+	"weekBefore": "tutorial",
+	"weekName": "Extras",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
