@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flames_corrupt.png">
+	
+	
+	<SubTexture name="Symbol 1 Instanz 10000" x="3" y="0" width="701" height="341" />
+	<SubTexture name="Symbol 1 Instanz 10001" x="3" y="0" width="701" height="341" />
+	<SubTexture name="Symbol 1 Instanz 10002" x="707" y="0" width="701" height="341" />
+	<SubTexture name="Symbol 1 Instanz 10003" x="707" y="0" width="701" height="341" />
+	<SubTexture name="Symbol 1 Instanz 10004" x="3" y="342" width="701" height="341" />
+	<SubTexture name="Symbol 1 Instanz 10005" x="3" y="342" width="701" height="341" />
+	<SubTexture name="Symbol 1 Instanz 10006" x="707" y="342" width="701" height="341" />
+	<SubTexture name="Symbol 1 Instanz 10007" x="707" y="342" width="701" height="341" />
+	<SubTexture name="Symbol 1 Instanz 10008" x="3" y="684" width="701" height="341" />
+	<SubTexture name="Symbol 1 Instanz 10009" x="3" y="684" width="701" height="341" />
+	<SubTexture name="Symbol 1 Instanz 10010" x="707" y="684" width="701" height="341" />
+	<SubTexture name="Symbol 1 Instanz 10011" x="707" y="684" width="701" height="341" />
+</TextureAtlas>
